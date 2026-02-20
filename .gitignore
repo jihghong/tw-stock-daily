@@ -1,0 +1,7 @@
+tw_stock.db
+
+.venv/
+__pycache__/
+*.egg-info/
+*.pyc
+.vscode/
