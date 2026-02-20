@@ -125,6 +125,6 @@ LEFT JOIN stock_future f ON s.ID = f.ID
 ## 未來展望
 
 - 可建立 GitHub actions 每日更新。
-- 舊程式係以爬網取得資料，正確做法應呼叫 [TWSE Open API](https://openapi.twse.com.tw/)、[TPEX Open API](https://www.tpex.org.tw/openapi/) 及 [TAIFEX Open API]。(https://openapi.taifex.com.tw/)
+- 舊程式係以爬網取得資料，正確做法應呼叫 [TWSE Open API](https://openapi.twse.com.tw/)、[TPEX Open API](https://www.tpex.org.tw/openapi/) 及 [TAIFEX Open API](https://openapi.taifex.com.tw/)。
 - 因經驗不足，資料品質不是很好，有心貢獻者可協助補充更完整之歷史資料。
 
